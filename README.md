@@ -56,19 +56,26 @@ Một số file kết quả chính:
 
 ### Part 1 - FrozenLake
 
-![FrozenLake](pictures/p1_frozen_lake.png)
+<p align="center">
+  <img src="pictures/p1_frozen_lake.png" alt="FrozenLake" />
+</p>
 
-![So sánh reward Part 1](pictures/p1_r_comparison.png)
+<p align="center">
+  <img src="pictures/p1_r_comparison.png" alt="So sánh reward Part 1" />
+</p>
 
 ### Part 2 - VacuumCleaner
 
-![Reward per episode Part 2](pictures/p2_r_per_ep.png)
-
-![So sánh reward Part 2](pictures/p2_r_comparison.png)
+<p align="center">
+  <img src="pictures/p2_r_per_ep.png" alt="Reward per episode Part 2" width="49%" />
+  <img src="pictures/p2_r_comparison.png" alt="So sánh reward Part 2" width="49%" />
+</p>
 
 ### Part 3 - Load Balancing
 
-![Reward, drop rate, completion rate Part 3](pictures/p3_r_drop_completion.png)
+<p align="center">
+  <img src="pictures/p3_r_drop_completion.png" alt="Reward, drop rate, completion rate Part 3" />
+</p>
 
 ## Báo cáo
 
