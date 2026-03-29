@@ -1,4 +1,4 @@
 Metric,Q-learning,Round Robin
-Average Reward,-24.685,-84.88
-Drop Rate,0.0703,0.1414
+Average Reward,-26.305,-84.88
+Drop Rate,0.068,0.1414
 Completion Rate,0.8557,0.7838
